@@ -1,2 +1,2 @@
-# Graph_Isomorphism
-This repository contains proyect to identify whether two graphs are isomorphs toward each other. 
+# Proyecto-Isomorfismo
+Repositorio que contiene el proyecto de matemática discreta II

@@ -1,0 +1,18 @@
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Discreta\Proyecto Discreta\bin\Debug\Proyecto Discreta.exe.config
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Discreta\Proyecto Discreta\bin\Debug\Proyecto Discreta.exe
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Discreta\Proyecto Discreta\bin\Debug\Proyecto Discreta.pdb
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Discreta\Proyecto Discreta\obj\Debug\Proyecto Discreta.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Discreta\Proyecto Discreta\obj\Debug\Proyecto_Discreta.Form1.resources
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Discreta\Proyecto Discreta\obj\Debug\Proyecto_Discreta.Properties.Resources.resources
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Discreta\Proyecto Discreta\obj\Debug\Proyecto Discreta.csproj.GenerateResource.Cache
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Discreta\Proyecto Discreta\obj\Debug\Proyecto Discreta.exe
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Discreta\Proyecto Discreta\obj\Debug\Proyecto Discreta.pdb
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Isomorfismo\Proyecto-Isomorfismo\Proyecto Discreta\bin\Debug\Proyecto Discreta.exe.config
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Isomorfismo\Proyecto-Isomorfismo\Proyecto Discreta\obj\Debug\Proyecto Discreta.exe
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Isomorfismo\Proyecto-Isomorfismo\Proyecto Discreta\obj\Debug\Proyecto Discreta.pdb
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Isomorfismo\Proyecto-Isomorfismo\Proyecto Discreta\bin\Debug\Proyecto Discreta.exe
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Isomorfismo\Proyecto-Isomorfismo\Proyecto Discreta\bin\Debug\Proyecto Discreta.pdb
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Isomorfismo\Proyecto-Isomorfismo\Proyecto Discreta\obj\Debug\Proyecto Discreta.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Isomorfismo\Proyecto-Isomorfismo\Proyecto Discreta\obj\Debug\Proyecto_Discreta.Form1.resources
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Isomorfismo\Proyecto-Isomorfismo\Proyecto Discreta\obj\Debug\Proyecto_Discreta.Properties.Resources.resources
+D:\Mis Documentos\Universidad\Progra\Box Sync\Documentos\Proyecto Isomorfismo\Proyecto-Isomorfismo\Proyecto Discreta\obj\Debug\Proyecto Discreta.csproj.GenerateResource.Cache
